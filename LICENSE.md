@@ -1,4 +1,4 @@
-# 
+# VIP Dify scripts. Com computação de borda e indexação de dados — otimizado para máximo desempenho e eficiência.
 
 
 
